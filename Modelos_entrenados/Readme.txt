@@ -1,1 +1,0 @@
-Los modelos de random forest (de regresion y clasificacion) no se pueden subir porque pesan demasiado
