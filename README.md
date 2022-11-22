@@ -1,6 +1,6 @@
-# TP1_ORGA_DATOS>
+# TP1_ORGA_DATOS GRUPO 4
 
-Integrantes:>
+Integrantes:
 
 106963 - Matias Daniel Rueda
 
